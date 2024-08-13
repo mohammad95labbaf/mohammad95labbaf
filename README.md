@@ -1,5 +1,3 @@
-Here is the updated README file with the Google Scholar link:
-
 👋 Hi, I’m *@mohammad95labbaf* (Mohammad Ali Labbaf Khaniki).
 
 👀 I’m interested in Machine Learning and Deep Learning.
